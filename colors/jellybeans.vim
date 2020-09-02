@@ -554,6 +554,11 @@ hi! link luaOperator Conditional
 hi! link cFormat Identifier
 hi! link cOperator Constant
 
+hi! link Member Identifier
+hi! link Variable Normal
+hi! link Namespace Constant
+hi! link EnumConstant Constant
+
 " Objective-C/Cocoa
 
 hi! link objcClass Type
